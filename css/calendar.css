@@ -1,0 +1,66 @@
+.calendar__table td{
+    padding: 10px;
+    border: 1px solid #CCC;
+    vertical-align: top;
+    width: 12%;
+    height: 20px;
+}
+.calendar__table{
+    width: 60%;
+    height: 95%;
+
+}
+.calendar__table.calendar__table--6weeks td{
+    height: 16.66px;
+}
+.calendar__weekday{
+    font-weight: bold;
+    color: #000;
+    font-size: 1.2em;
+}
+
+.calendar__othermonth .calendar__day{
+    opacity: 0.3;
+}
+
+.calendar__day{
+    font-style: 1.3em;
+}
+.calendar__header{
+    width: 58.5%;
+}
+.calendar__header a{
+    background-color:#ff87ad;
+    border-color: #ff87ad;
+    color: #000;
+}
+.first_li{
+    font-weight: bold;
+    color: #CE007C;
+}
+.second_li{
+    font-weight: bold;
+    color: bisque;
+}
+.third_li{
+    font-weight: bold;
+    color: #ff87ad;
+}
+.calendar__menstruesPeriod{
+    background-color: #ff87ad;
+
+}
+.calendar__ovulation{
+    background-color: #CE007C;
+}
+.calendar__fecondperiod{
+    background-color: bisque;
+}
+/* *{
+    margin-top: 5px;
+} */
+.calendar__today{
+    border: 3px solid gray;
+}
+
+

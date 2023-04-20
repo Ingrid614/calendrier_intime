@@ -1,0 +1,50 @@
+
+/* first div home page properties */
+.navbar-default{
+    background-color: #ff87ad;
+}
+h1{
+    font-weight: bold;
+    /* font-family: Informal Roman; */
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+/* second div home page properties */
+
+
+#informations button{
+    height: 45px;
+    width: 300px;
+    border-radius: 0px;
+    background-color: #ff87ad;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 50px;
+    border: 0px;
+    color: black;
+}
+#informations{
+    margin-right: 500px;
+}
+
+#parameters div button{
+    height: 80px;
+    width: 100px;
+    border-radius: 12px;
+    background: #ff87ad;
+    font-size: 15px;
+    margin-top: 10px;
+    line-height: 20px;
+    color:black;
+}
+
+
+
+
